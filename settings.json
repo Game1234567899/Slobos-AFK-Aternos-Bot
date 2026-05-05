@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "sorpotel67.aternos.me",
-    "port": 42221,
+    "port": ,
     "version": "1.20.1",
     "try-creative": false
   },
